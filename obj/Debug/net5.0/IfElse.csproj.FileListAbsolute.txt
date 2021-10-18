@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\semestre2\IfElse\bin\Debug\net5.0\IfElse.exe
+C:\projetos\ams\1ano\semestre2\IfElse\bin\Debug\net5.0\IfElse.deps.json
+C:\projetos\ams\1ano\semestre2\IfElse\bin\Debug\net5.0\IfElse.runtimeconfig.json
+C:\projetos\ams\1ano\semestre2\IfElse\bin\Debug\net5.0\IfElse.runtimeconfig.dev.json
+C:\projetos\ams\1ano\semestre2\IfElse\bin\Debug\net5.0\IfElse.dll
+C:\projetos\ams\1ano\semestre2\IfElse\bin\Debug\net5.0\ref\IfElse.dll
+C:\projetos\ams\1ano\semestre2\IfElse\bin\Debug\net5.0\IfElse.pdb
+C:\projetos\ams\1ano\semestre2\IfElse\obj\Debug\net5.0\IfElse.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\semestre2\IfElse\obj\Debug\net5.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\semestre2\IfElse\obj\Debug\net5.0\IfElse.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\semestre2\IfElse\obj\Debug\net5.0\IfElse.AssemblyInfo.cs
+C:\projetos\ams\1ano\semestre2\IfElse\obj\Debug\net5.0\IfElse.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\semestre2\IfElse\obj\Debug\net5.0\IfElse.dll
+C:\projetos\ams\1ano\semestre2\IfElse\obj\Debug\net5.0\ref\IfElse.dll
+C:\projetos\ams\1ano\semestre2\IfElse\obj\Debug\net5.0\IfElse.pdb
+C:\projetos\ams\1ano\semestre2\IfElse\obj\Debug\net5.0\IfElse.genruntimeconfig.cache
